@@ -1,4 +1,4 @@
-# Rust Installation and Running the GDrive CDN Server
+# Gdrive As A Server
 
 This guide provides instructions for installing Rust, setting up dependencies, and running a GDrive CDN server. The server allows you to list and retrieve files stored in your Google Drive. Follow the steps below to get started.
 
