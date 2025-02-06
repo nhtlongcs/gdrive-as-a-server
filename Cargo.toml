@@ -1,0 +1,16 @@
+[package]
+name = "gdrive_cdn_rust"
+version = "0.1.0"
+edition = "2021"
+
+description = "A simple Axum-based CDN server using Google Drive links."
+authors = ["Your Name"]
+license = "MIT"
+
+[dependencies]
+axum = "0.6"
+tokio = { version = "1", features = ["full"] }
+regex = "1"
+dotenv = "0.15.0"
+serde_json = "1"
+serde = { version = "1", features = ["derive"] }
