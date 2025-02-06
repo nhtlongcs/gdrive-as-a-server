@@ -23,7 +23,7 @@ cargo build
 cargo run
 ```
 
-The server will start on `http://0.0.0.1:3000`.
+The server will start on `http://0.0.0.0:3000`.
 
 ## API Endpoints
 - **List all files:** `GET /files`
